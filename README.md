@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hopdi
-- 👀 I’m interested in web API's, blockchain, and Trading
-- 🌱 I’m currently learning web API using django
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Trading and programming expert advisors, indicators for trading signal
+- 🌱 I’m currently working on some indicators
+- 💞️ I’m looking to collaborate on FXSSI
 - 📫 How to reach me @HopeDimka on twitter
 
 <!---
